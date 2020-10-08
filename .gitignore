@@ -1,4 +1,4 @@
-.idea
+.idea/
 .env
-./vendor
-./public
+./vendor/
+./public/
